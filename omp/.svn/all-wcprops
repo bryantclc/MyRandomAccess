@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/4331/trunk/clc/MyRandomAccess/MyRandomAccess/omp
+END
+gupsout
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/4331/trunk/clc/MyRandomAccess/MyRandomAccess/omp/gupsout
+END
+single_node_lcg_omp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/4331/trunk/clc/MyRandomAccess/MyRandomAccess/omp/single_node_lcg_omp
+END
+single_node_lcg.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/4331/trunk/clc/MyRandomAccess/MyRandomAccess/omp/single_node_lcg.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/4331/trunk/clc/MyRandomAccess/MyRandomAccess/omp/Makefile
+END

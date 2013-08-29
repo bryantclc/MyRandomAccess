@@ -1,0 +1,70 @@
+Main table size   = 2^25 = 33554432 words
+Number of updates = 134217728
+Real time used = 2.494318 seconds
+0.053809389 Billion(10^9) Updates    per second [GUP/s]
+Found 32939956 errors in 33554432 locations (failed).
+Main table size   = 2^26 = 67108864 words
+Number of updates = 268435456
+Real time used = 5.321498 seconds
+0.050443589 Billion(10^9) Updates    per second [GUP/s]
+Found 65879250 errors in 67108864 locations (failed).
+Main table size   = 2^23 = 8388608 words
+Number of updates = 33554432
+Real time used = 0.550931 seconds
+0.060904963 Billion(10^9) Updates    per second [GUP/s]
+Found 8235213 errors in 8388608 locations (failed).
+Main table size   = 2^23 = 8388608 words
+Number of updates = 33554432
+Real time used = 0.492939 seconds
+0.068070151 Billion(10^9) Updates    per second [GUP/s]
+Found 8235213 errors in 8388608 locations (failed).
+Main table size   = 2^26 = 67108864 words
+Number of updates = 268435456
+Real time used = 5.325900 seconds
+0.050401896 Billion(10^9) Updates    per second [GUP/s]
+Found 65879250 errors in 67108864 locations (failed).
+Main table size   = 2^23 = 8388608 words
+Number of updates = 33554432
+Real time used = 0.493392 seconds
+0.068007653 Billion(10^9) Updates    per second [GUP/s]
+Found 8235213 errors in 8388608 locations (failed).
+Main table size   = 2^23 = 8388608 words
+Number of updates = 33554432
+Real time used = 0.000001 seconds
+33554.432000000 Billion(10^9) Updates    per second [GUP/s]
+Found 0 errors in 8388608 locations (passed).
+Main table size   = 2^23 = 8388608 words
+Number of updates = 33554432
+Real time used = 0.592457 seconds
+0.056636063 Billion(10^9) Updates    per second [GUP/s]
+Found 508150 errors in 8388608 locations (failed).
+Main table size   = 2^23 = 8388608 words
+Number of updates = 33554432
+Real time used = 0.592185 seconds
+0.056662077 Billion(10^9) Updates    per second [GUP/s]
+Found 8235213 errors in 8388608 locations (failed).
+Main table size   = 2^23 = 8388608 words
+Number of updates = 33554432
+Real time used = 0.592611 seconds
+0.056621345 Billion(10^9) Updates    per second [GUP/s]
+Found 8235213 errors in 8388608 locations (failed).
+Main table size   = 2^23 = 8388608 words
+Number of updates = 33554432
+Real time used = 0.592280 seconds
+0.056652988 Billion(10^9) Updates    per second [GUP/s]
+Found 8235213 errors in 8388608 locations (failed).
+Main table size   = 2^23 = 8388608 words
+Number of updates = 33554432
+Real time used = 0.593451 seconds
+0.056541201 Billion(10^9) Updates    per second [GUP/s]
+Found 8235213 errors in 8388608 locations (failed).
+Main table size   = 2^23 = 8388608 words
+Number of updates = 33554432
+Real time used = 2.120808 seconds
+0.015821532 Billion(10^9) Updates    per second [GUP/s]
+Found 0 errors in 8388608 locations (passed).
+Main table size   = 2^23 = 8388608 words
+Number of updates = 33554432
+Real time used = 1.584124 seconds
+0.021181695 Billion(10^9) Updates    per second [GUP/s]
+Found 0 errors in 8388608 locations (passed).

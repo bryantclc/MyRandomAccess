@@ -1,0 +1,276 @@
+Main table size   = 2^23 = 8388608 words
+Number of updates = 33554432
+Real time used = 1.021576 seconds
+0.032845752 Billion(10^9) Updates    per second [GUP/s]
+Found 0 errors in 8388608 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^26 = 67108864 words
+Number of updates = 268435456
+Real time used = 11.064526 seconds
+0.024260909 Billion(10^9) Updates    per second [GUP/s]
+Found 0 errors in 67108864 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^26 = 67108864 words
+Number of updates = 268435456
+Real time used = 4.794861 seconds
+0.055983991 Billion(10^9) Updates    per second [GUP/s]
+Found 25 errors in 67108864 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^26 = 67108864 words
+Number of updates = 268435456
+Real time used = 4.747882 seconds
+0.056537938 Billion(10^9) Updates    per second [GUP/s]
+Found 29 errors in 67108864 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^26 = 67108864 words
+Number of updates = 268435456
+Num of threads = 16
+Real time used = 4.756065 seconds
+0.056440662 Billion(10^9) Updates    per second [GUP/s]
+Found 34 errors in 67108864 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^25 = 33554432 words
+Number of updates = 134217728
+Num of threads = 4
+Real time used = 1.812852 seconds
+0.074036782 Billion(10^9) Updates    per second [GUP/s]
+Found 25 errors in 33554432 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^25 = 33554432 words
+Number of updates = 134217728
+Num of threads = 1
+Real time used = 3.317272 seconds
+0.040460272 Billion(10^9) Updates    per second [GUP/s]
+Found 0 errors in 33554432 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 4
+Real time used = 0.282356 seconds
+0.059418663 Billion(10^9) Updates    per second [GUP/s]
+Found 28 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 1
+Real time used = 0.428395 seconds
+0.039162959 Billion(10^9) Updates    per second [GUP/s]
+Found 0 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 0
+Num of threads = 4
+Real time used = 0.031853 seconds
+0.526707563 Billion(10^9) Updates    per second [GUP/s]
+Found 4117453 errors in 4194304 locations (failed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 0
+Num of threads = 4
+Real time used = 0.288798 seconds
+0.058093255 Billion(10^9) Updates    per second [GUP/s]
+Found 29 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 4
+Real time used = 0.289102 seconds
+0.058032169 Billion(10^9) Updates    per second [GUP/s]
+Found 24 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 4
+Real time used = 0.289019 seconds
+0.058048834 Billion(10^9) Updates    per second [GUP/s]
+Found 26 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 4
+Real time used = 0.288690 seconds
+0.058114988 Billion(10^9) Updates    per second [GUP/s]
+Found 28 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 4
+Real time used = 0.289045 seconds
+0.058043613 Billion(10^9) Updates    per second [GUP/s]
+Found 31 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 4
+Real time used = 0.289500 seconds
+0.057952387 Billion(10^9) Updates    per second [GUP/s]
+Found 23 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 4
+Real time used = 0.289179 seconds
+0.058016716 Billion(10^9) Updates    per second [GUP/s]
+Found 29 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 4
+Real time used = 0.280958 seconds
+0.059714320 Billion(10^9) Updates    per second [GUP/s]
+Found 21 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 4
+Real time used = 0.281101 seconds
+0.059683943 Billion(10^9) Updates    per second [GUP/s]
+Found 28 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 1
+Real time used = 0.439203 seconds
+0.038199229 Billion(10^9) Updates    per second [GUP/s]
+Found 0 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 1
+Real time used = 0.437727 seconds
+0.038328036 Billion(10^9) Updates    per second [GUP/s]
+Found 0 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 1
+Real time used = 0.430489 seconds
+0.038972462 Billion(10^9) Updates    per second [GUP/s]
+Found 0 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 1
+Real time used = 0.437563 seconds
+0.038342401 Billion(10^9) Updates    per second [GUP/s]
+Found 0 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 1
+Real time used = 0.438326 seconds
+0.038275658 Billion(10^9) Updates    per second [GUP/s]
+Found 0 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 1
+Real time used = 0.438428 seconds
+0.038266753 Billion(10^9) Updates    per second [GUP/s]
+Found 0 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^22 = 4194304 words
+Number of updates = 16777216
+Num of threads = 1
+Real time used = 0.438500 seconds
+0.038260470 Billion(10^9) Updates    per second [GUP/s]
+Found 0 errors in 4194304 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^27 = 134217728 words
+Number of updates = 536870912
+Num of threads = 4
+Real time used = 8.535383 seconds
+0.062899452 Billion(10^9) Updates    per second [GUP/s]
+Found 35 errors in 134217728 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^27 = 134217728 words
+Number of updates = 536870912
+Num of threads = 4
+Real time used = 8.546704 seconds
+0.062816135 Billion(10^9) Updates    per second [GUP/s]
+Found 24 errors in 134217728 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^30 = 1073741824 words
+Number of updates = 4294967296
+Num of threads = 4
+Real time used = 117.497095 seconds
+0.036553817 Billion(10^9) Updates    per second [GUP/s]
+Found 7 errors in 1073741824 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^29 = 536870912 words
+Number of updates = 2147483648
+Num of threads = 8
+Real time used = 60.764084 seconds
+0.035341332 Billion(10^9) Updates    per second [GUP/s]
+Found 0 errors in 536870912 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^26 = 67108864 words
+Number of updates = 268435456
+Num of threads = 4
+Real time used = 1.735028 seconds
+0.154715345 Billion(10^9) Updates    per second [GUP/s]
+Found 35 errors in 67108864 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^26 = 67108864 words
+Number of updates = 268435456
+Num of threads = 4
+Real time used = 1.809098 seconds
+0.148380826 Billion(10^9) Updates    per second [GUP/s]
+Found 28 errors in 67108864 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^26 = 67108864 words
+Number of updates = 268435456
+Num of threads = 4
+Real time used = 1.815253 seconds
+0.147877710 Billion(10^9) Updates    per second [GUP/s]
+Found 21 errors in 67108864 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^26 = 67108864 words
+Number of updates = 268435456
+Num of threads = 4
+Real time used = 1.757408 seconds
+0.152745097 Billion(10^9) Updates    per second [GUP/s]
+Found 27 errors in 67108864 locations (passed).
+-------------------------------------------------------------
+
+Main table size   = 2^28 = 268435456 words
+Number of updates = 1073741824
+Num of threads = 4
+Real time used = 7.106351 seconds
+0.151096086 Billion(10^9) Updates    per second [GUP/s]
+Found 29 errors in 268435456 locations (passed).
+-------------------------------------------------------------
+

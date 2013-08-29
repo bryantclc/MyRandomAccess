@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/4331/trunk/clc/MyRandomAccess/MyRandomAccess/pthread
+END
+single_node_lcg_pthread
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/4331/trunk/clc/MyRandomAccess/MyRandomAccess/pthread/single_node_lcg_pthread
+END
+gupsout
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/4331/trunk/clc/MyRandomAccess/MyRandomAccess/pthread/gupsout
+END
+single_node_lcg.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/4331/trunk/clc/MyRandomAccess/MyRandomAccess/pthread/single_node_lcg.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/4331/trunk/clc/MyRandomAccess/MyRandomAccess/pthread/Makefile
+END
